@@ -1,0 +1,2730 @@
+{
+    "en": [
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Holy%20See%20(Vatican%20City%20State)",
+            "countryName": "Holy See",
+            "capital": "Vatican City",
+            "population": 0
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/South%20Georgia%20and%20the%20South%20Sandwich%20Islands",
+            "countryName": "South Georgia and the South Sandwich Islands",
+            "capital": "King Edward Point",
+            "population": 0
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Pitcairn",
+            "countryName": "Pitcairn Islands",
+            "capital": "Adamstown",
+            "population": 50
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/French%20Southern%20Territories",
+            "countryName": "French Southern and Antarctic Lands",
+            "capital": "Saint-Pierre, Réunion",
+            "population": 100
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Cocos%20(Keeling)%20Islands",
+            "countryName": "Cocos (Keeling) Islands",
+            "capital": "West Island",
+            "population": 544
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Niue",
+            "countryName": "Niue",
+            "capital": "Alofi",
+            "population": 1624
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Norfolk%20Island",
+            "countryName": "Norfolk Island",
+            "capital": "Kingston",
+            "population": 1748
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Christmas%20Island",
+            "countryName": "Christmas Island",
+            "capital": "Flying Fish Cove",
+            "population": 1843
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/British%20Indian%20Ocean%20Territory",
+            "countryName": "British Indian Ocean Territory",
+            "capital": "Camp Justice",
+            "population": 2500
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Falkland%20Islands%20(Malvinas)",
+            "countryName": "Falkland Islands",
+            "capital": "Stanley",
+            "population": 3398
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Saint%20Helena",
+            "countryName": "Saint Helena",
+            "capital": "Jamestown",
+            "population": 4534
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Montserrat",
+            "countryName": "Montserrat",
+            "capital": "Plymouth",
+            "population": 5215
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Saint%20Pierre%20and%20Miquelon",
+            "countryName": "Saint Pierre and Miquelon",
+            "capital": "Saint-Pierre",
+            "population": 6008
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Saint%20Barthelemy",
+            "countryName": "Saint Barthélemy",
+            "capital": "Gustavia",
+            "population": 9793
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Tuvalu",
+            "countryName": "Tuvalu",
+            "capital": "Funafuti",
+            "population": 11192
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Nauru",
+            "countryName": "Nauru",
+            "capital": "de jure",
+            "population": 11200
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Wallis%20and%20Futuna",
+            "countryName": "Wallis and Futuna",
+            "capital": "Mata Utu",
+            "population": 11558
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Anguilla",
+            "countryName": "Anguilla",
+            "capital": "The Valley",
+            "population": 14764
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Cook%20Islands",
+            "countryName": "Cook Islands",
+            "capital": "Avarua",
+            "population": 17379
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Palau",
+            "countryName": "Palau",
+            "capital": "Ngerulmud",
+            "population": 21503
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Aland%20Islands",
+            "countryName": "Åland Islands",
+            "capital": "Mariehamn",
+            "population": 29489
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Turks%20and%20Caicos%20Islands",
+            "countryName": "Turks and Caicos Islands",
+            "capital": "Cockburn Town",
+            "population": 31458
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Virgin%20Islands%2C%20British",
+            "countryName": "British Virgin Islands",
+            "capital": "Road Town",
+            "population": 31758
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Gibraltar",
+            "countryName": "Gibraltar",
+            "capital": "36°8′N 5°21′W﻿ / ﻿36.133°N 5.350°W﻿ / 36.133; -5.350",
+            "population": 32194
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/San%20Marino",
+            "countryName": "San Marino",
+            "capital": "San Marino",
+            "population": 33344
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Sint%20Maarten%20(Dutch%20part)",
+            "countryName": "Sint Maarten",
+            "capital": "Philipsburg",
+            "population": 33609
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Saint%20Martin%20(French%20part)",
+            "countryName": "Collectivity of Saint Martin",
+            "capital": "Marigot",
+            "population": 35107
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Monaco",
+            "countryName": "Monaco",
+            "capital": "city-state",
+            "population": 38400
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Liechtenstein",
+            "countryName": "Liechtenstein",
+            "capital": "Vaduz",
+            "population": 38547
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Faroe%20Islands",
+            "countryName": "Faroe Islands",
+            "capital": "Tórshavn",
+            "population": 51783
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Marshall%20Islands",
+            "countryName": "Marshall Islands",
+            "capital": "Majuro",
+            "population": 53066
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Saint%20Kitts%20and%20Nevis",
+            "countryName": "Saint Kitts and Nevis",
+            "capital": "Basseterre",
+            "population": 54821
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Northern%20Mariana%20Islands",
+            "countryName": "Northern Mariana Islands",
+            "capital": "Saipan",
+            "population": 55144
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/American%20Samoa",
+            "countryName": "American Samoa",
+            "capital": "Pago Pago",
+            "population": 55689
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Greenland",
+            "countryName": "Greenland",
+            "capital": "Nuuk",
+            "population": 55877
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Guernsey",
+            "countryName": "Guernsey",
+            "capital": "Saint Peter Port",
+            "population": 63026
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Cayman%20Islands",
+            "countryName": "Cayman Islands",
+            "capital": "George Town",
+            "population": 64420
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Bermuda",
+            "countryName": "Bermuda",
+            "capital": "Hamilton",
+            "population": 71176
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Dominica",
+            "countryName": "Dominica",
+            "capital": "Roseau",
+            "population": 73543
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Andorra",
+            "countryName": "Andorra",
+            "capital": "Andorra la Vella",
+            "population": 76177
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Isle%20of%20Man",
+            "countryName": "Isle of Man",
+            "capital": "Douglas",
+            "population": 83314
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Seychelles",
+            "countryName": "Seychelles",
+            "capital": "Victoria",
+            "population": 94228
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Tonga",
+            "countryName": "Tonga",
+            "capital": "Nukuʻalofa",
+            "population": 100651
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Antigua%20and%20Barbuda",
+            "countryName": "Antigua and Barbuda",
+            "capital": "St. John's",
+            "population": 100963
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Aruba",
+            "countryName": "Aruba",
+            "capital": "Oranjestad",
+            "population": 104822
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Micronesia%2C%20Federated%20States%20of",
+            "countryName": "Federated States of Micronesia",
+            "capital": "Palikir",
+            "population": 104937
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Virgin%20Islands%2C%20U.S.",
+            "countryName": "United States Virgin Islands",
+            "capital": "Charlotte Amalie",
+            "population": 106405
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Jersey",
+            "countryName": "Jersey",
+            "capital": "Saint Helier",
+            "population": 106800
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Grenada",
+            "countryName": "Grenada",
+            "capital": "St. George's",
+            "population": 107317
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Saint%20Vincent%20and%20the%20Grenadines",
+            "countryName": "Saint Vincent and the Grenadines",
+            "capital": "Kingstown",
+            "population": 109643
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Kiribati",
+            "countryName": "Kiribati",
+            "capital": "Tarawa",
+            "population": 110136
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Curacao",
+            "countryName": "Curaçao",
+            "capital": "Willemstad",
+            "population": 160012
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Guam",
+            "countryName": "Guam",
+            "capital": "Hagåtña",
+            "population": 162742
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Saint%20Lucia",
+            "countryName": "Saint Lucia",
+            "capital": "Castries",
+            "population": 178015
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Samoa",
+            "countryName": "Samoa",
+            "capital": "Apia",
+            "population": 195843
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Sao%20Tome%20and%20Principe",
+            "countryName": "São Tomé and Príncipe",
+            "capital": "São Tomé",
+            "population": 199910
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Vanuatu",
+            "countryName": "Vanuatu",
+            "capital": "Port Vila",
+            "population": 272459
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/French%20Polynesia",
+            "countryName": "French Polynesia",
+            "capital": "Papeete",
+            "population": 275918
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Barbados",
+            "countryName": "Barbados",
+            "capital": "Bridgetown",
+            "population": 277821
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/New%20Caledonia",
+            "countryName": "New Caledonia",
+            "capital": "Nouméa",
+            "population": 278500
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Iceland",
+            "countryName": "Iceland",
+            "capital": "Reykjavík",
+            "population": 360390
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Bahamas",
+            "countryName": "The Bahamas",
+            "capital": "Nassau",
+            "population": 391232
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Maldives",
+            "countryName": "Maldives",
+            "capital": "Malé",
+            "population": 392473
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Belize",
+            "countryName": "Belize",
+            "capital": "Belmopan",
+            "population": 408487
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Brunei%20Darussalam",
+            "countryName": "Brunei",
+            "capital": "Bandar Seri Begawan",
+            "population": 442400
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Malta",
+            "countryName": "Malta",
+            "capital": "Valletta",
+            "population": 493559
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Cape%20Verde",
+            "countryName": "Cape Verde",
+            "capital": "Praia",
+            "population": 539560
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Suriname",
+            "countryName": "Suriname",
+            "capital": "Paramaribo",
+            "population": 558368
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Solomon%20Islands",
+            "countryName": "Solomon Islands",
+            "capital": "Honiara",
+            "population": 599419
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Luxembourg",
+            "countryName": "Luxembourg",
+            "capital": "Luxembourg City",
+            "population": 613894
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Montenegro",
+            "countryName": "Montenegro",
+            "capital": "Podgorica",
+            "population": 660879
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Bhutan",
+            "countryName": "Bhutan",
+            "capital": "Thimphu",
+            "population": 741700
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Guyana",
+            "countryName": "Guyana",
+            "capital": "Georgetown",
+            "population": 783769
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Comoros",
+            "countryName": "Comoros",
+            "capital": "Moroni",
+            "population": 850688
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Djibouti",
+            "countryName": "Djibouti",
+            "capital": "Djibouti",
+            "population": 884017
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Fiji",
+            "countryName": "Fiji",
+            "capital": "Suva",
+            "population": 912241
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Timor-Leste",
+            "countryName": "East Timor",
+            "capital": "Dili",
+            "population": 1167242
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Cyprus",
+            "countryName": "Cyprus",
+            "capital": "Nicosia",
+            "population": 1170125
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Equatorial%20Guinea",
+            "countryName": "Equatorial Guinea",
+            "capital": "Malabo",
+            "population": 1221490
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Mauritius",
+            "countryName": "Mauritius",
+            "capital": "Port Louis",
+            "population": 1265985
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Estonia",
+            "countryName": "Estonia",
+            "capital": "Tallinn",
+            "population": 1324820
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Swaziland",
+            "countryName": "Eswatini",
+            "capital": "Mbabane",
+            "population": 1343098
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Trinidad%20and%20Tobago",
+            "countryName": "Trinidad and Tobago",
+            "capital": "Port of Spain",
+            "population": 1359193
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Bahrain",
+            "countryName": "Bahrain",
+            "capital": "Manama",
+            "population": 1425171
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Kosovo",
+            "countryName": "Kosovo",
+            "capital": "Pristina",
+            "population": 1809280
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Guinea-Bissau",
+            "countryName": "Guinea-Bissau",
+            "capital": "Bissau",
+            "population": 1815698
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Latvia",
+            "countryName": "Latvia",
+            "capital": "Riga",
+            "population": 1919968
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Gabon",
+            "countryName": "Gabon",
+            "capital": "Libreville",
+            "population": 1979786
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Gambia",
+            "countryName": "The Gambia",
+            "capital": "Banjul",
+            "population": 2051363
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Slovenia",
+            "countryName": "Slovenia",
+            "capital": "Ljubljana",
+            "population": 2084301
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Lesotho",
+            "countryName": "Lesotho",
+            "capital": "Maseru",
+            "population": 2203821
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Botswana",
+            "countryName": "Botswana",
+            "capital": "Gaborone",
+            "population": 2250260
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Namibia",
+            "countryName": "Namibia",
+            "capital": "Windhoek",
+            "population": 2606971
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Qatar",
+            "countryName": "Qatar",
+            "capital": "Doha",
+            "population": 2641669
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Moldova%2C%20Republic%20of",
+            "countryName": "Moldova",
+            "capital": "Chișinău",
+            "population": 2681735
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Lithuania",
+            "countryName": "Lithuania",
+            "capital": "Vilnius",
+            "population": 2793486
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Albania",
+            "countryName": "Albania",
+            "capital": "Tirana",
+            "population": 2876591
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Jamaica",
+            "countryName": "Jamaica",
+            "capital": "Kingston",
+            "population": 2890299
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Armenia",
+            "countryName": "Armenia",
+            "capital": "Yerevan",
+            "population": 2924816
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Puerto%20Rico",
+            "countryName": "Puerto Rico",
+            "capital": "San Juan",
+            "population": 3195153
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Mongolia",
+            "countryName": "Mongolia",
+            "capital": "Ulaanbaatar",
+            "population": 3256176
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Uruguay",
+            "countryName": "Uruguay",
+            "capital": "Montevideo",
+            "population": 3444006
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Bosnia%20and%20Herzegovina",
+            "countryName": "Bosnia and Herzegovina",
+            "capital": "Sarajevo",
+            "population": 3511372
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Panama",
+            "countryName": "Panama",
+            "capital": "Panama City",
+            "population": 4034119
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Croatia",
+            "countryName": "Croatia",
+            "capital": "Zagreb",
+            "population": 4076246
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Mauritania",
+            "countryName": "Mauritania",
+            "capital": "Nouakchott",
+            "population": 4301018
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Oman",
+            "countryName": "Oman",
+            "capital": "Muscat",
+            "population": 4424762
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Central%20African%20Republic",
+            "countryName": "Central African Republic",
+            "capital": "Bangui",
+            "population": 4594621
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Kuwait",
+            "countryName": "Kuwait",
+            "capital": "Kuwait City",
+            "population": 4621638
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Liberia",
+            "countryName": "Liberia",
+            "capital": "Monrovia",
+            "population": 4809768
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Costa%20Rica",
+            "countryName": "Costa Rica",
+            "capital": "San José",
+            "population": 4857274
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/New%20Zealand",
+            "countryName": "New Zealand",
+            "capital": "Wellington",
+            "population": 4941130
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Eritrea",
+            "countryName": "Eritrea",
+            "capital": "Asmara",
+            "population": 4954645
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Norway",
+            "countryName": "Norway",
+            "capital": "Oslo",
+            "population": 5328212
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Slovakia",
+            "countryName": "Slovakia",
+            "capital": "Bratislava",
+            "population": 5450421
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Finland",
+            "countryName": "Finland",
+            "capital": "Helsinki",
+            "population": 5521158
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Singapore",
+            "countryName": "Singapore",
+            "capital": "[1]",
+            "population": 5638700
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Turkmenistan",
+            "countryName": "Turkmenistan",
+            "capital": "Ashgabat",
+            "population": 5662544
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Denmark",
+            "countryName": "Denmark",
+            "capital": "Copenhagen",
+            "population": 5814461
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Lebanon",
+            "countryName": "Lebanon",
+            "capital": "Beirut",
+            "population": 6006668
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Nicaragua",
+            "countryName": "Nicaragua",
+            "capital": "Managua",
+            "population": 6167237
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/El%20Salvador",
+            "countryName": "El Salvador",
+            "capital": "San Salvador",
+            "population": 6344722
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Kyrgyzstan",
+            "countryName": "Kyrgyzstan",
+            "capital": "Bishkek",
+            "population": 6389500
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Libya",
+            "countryName": "Libya",
+            "capital": "Tripoli",
+            "population": 6653210
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Lao%20People's%20Democratic%20Republic",
+            "countryName": "Laos",
+            "capital": "Vientiane",
+            "population": 6758353
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Serbia",
+            "countryName": "Serbia",
+            "capital": "Belgrade",
+            "population": 6963764
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Bulgaria",
+            "countryName": "Bulgaria",
+            "capital": "Sofia",
+            "population": 7000039
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Sierra%20Leone",
+            "countryName": "Sierra Leone",
+            "capital": "Freetown",
+            "population": 7075641
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Paraguay",
+            "countryName": "Paraguay",
+            "capital": "Asunción",
+            "population": 7152703
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Togo",
+            "countryName": "Togo",
+            "capital": "Lomé",
+            "population": 7965055
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Papua%20New%20Guinea",
+            "countryName": "Papua New Guinea",
+            "capital": "Port Moresby",
+            "population": 8084999
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Switzerland",
+            "countryName": "Switzerland",
+            "capital": "de jure",
+            "population": 8570146
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Austria",
+            "countryName": "Austria",
+            "capital": "Vienna",
+            "population": 8857960
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Israel",
+            "countryName": "Israel",
+            "capital": "Jerusalem",
+            "population": 9112400
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Honduras",
+            "countryName": "Honduras",
+            "capital": "Tegucigalpa",
+            "population": 9112867
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Tajikistan",
+            "countryName": "Tajikistan",
+            "capital": "Dushanbe",
+            "population": 9275827
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Belarus",
+            "countryName": "Belarus",
+            "capital": "Minsk",
+            "population": 9491800
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/United%20Arab%20Emirates",
+            "countryName": "United Arab Emirates",
+            "capital": "Abu Dhabi",
+            "population": 9599353
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Hungary",
+            "countryName": "Hungary",
+            "capital": "Budapest",
+            "population": 9772756
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Azerbaijan",
+            "countryName": "Azerbaijan",
+            "capital": "Baku",
+            "population": 10000000
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Portugal",
+            "countryName": "Portugal",
+            "capital": "Lisbon",
+            "population": 10276617
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Sweden",
+            "countryName": "Sweden",
+            "capital": "Stockholm",
+            "population": 10302984
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Jordan",
+            "countryName": "Jordan",
+            "capital": "Amman",
+            "population": 10407793
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Burundi",
+            "countryName": "Burundi",
+            "capital": "Gitega",
+            "population": 10524117
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Czech%20Republic",
+            "countryName": "Czech Republic",
+            "capital": "Prague",
+            "population": 10649800
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Dominican%20Republic",
+            "countryName": "Dominican Republic",
+            "capital": "Santo Domingo",
+            "population": 10735896
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Greece",
+            "countryName": "Greece",
+            "capital": "Athens",
+            "population": 10768477
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Haiti",
+            "countryName": "Haiti",
+            "capital": "Port-au-Prince",
+            "population": 10847334
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Benin",
+            "countryName": "Benin",
+            "capital": "Porto-Novo",
+            "population": 10872298
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Somalia",
+            "countryName": "Somalia",
+            "capital": "Mogadishu",
+            "population": 11031386
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Cuba",
+            "countryName": "Cuba",
+            "capital": "Havana",
+            "population": 11209628
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Rwanda",
+            "countryName": "Rwanda",
+            "capital": "Kigali",
+            "population": 11262564
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Belgium",
+            "countryName": "Belgium",
+            "capital": "Brussels",
+            "population": 11420163
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Bolivia",
+            "countryName": "Bolivia",
+            "capital": "Sucre",
+            "population": 11428245
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Tunisia",
+            "countryName": "Tunisia",
+            "capital": "Tunis",
+            "population": 11434994
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/South%20Sudan",
+            "countryName": "South Sudan",
+            "capital": "Juba",
+            "population": 12230730
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Guinea",
+            "countryName": "Guinea",
+            "capital": "Conakry",
+            "population": 12395924
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Chad",
+            "countryName": "Chad",
+            "capital": "N'Djamena",
+            "population": 13670084
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Cambodia",
+            "countryName": "Cambodia",
+            "capital": "Phnom Penh",
+            "population": 15288489
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Senegal",
+            "countryName": "Senegal",
+            "capital": "Dakar",
+            "population": 15411614
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Zimbabwe",
+            "countryName": "Zimbabwe",
+            "capital": "Harare",
+            "population": 16150362
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Ecuador",
+            "countryName": "Ecuador",
+            "capital": "Quito",
+            "population": 16385068
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Zambia",
+            "countryName": "Zambia",
+            "capital": "Lusaka",
+            "population": 16591390
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Guatemala",
+            "countryName": "Guatemala",
+            "capital": "Guatemala City",
+            "population": 17263239
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Netherlands",
+            "countryName": "Netherlands",
+            "capital": "Amsterdam",
+            "population": 17336891
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Chile",
+            "countryName": "Chile",
+            "capital": "Santiago",
+            "population": 17574003
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Malawi",
+            "countryName": "Malawi",
+            "capital": "Lilongwe",
+            "population": 18091575
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Kazakhstan",
+            "countryName": "Kazakhstan",
+            "capital": "Nur-Sultan",
+            "population": 18448600
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Syrian%20Arab%20Republic",
+            "countryName": "Syria",
+            "capital": "Damascus",
+            "population": 18528105
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Mali",
+            "countryName": "Mali",
+            "capital": "Bamako",
+            "population": 19329841
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Romania",
+            "countryName": "Romania",
+            "capital": "Bucharest",
+            "population": 19401658
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Burkina%20Faso",
+            "countryName": "Burkina Faso",
+            "capital": "Ouagadougou",
+            "population": 20107509
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Niger",
+            "countryName": "Niger",
+            "capital": "Niamey",
+            "population": 20672987
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Sri%20Lanka",
+            "countryName": "Sri Lanka",
+            "capital": "Sri Jayawardenepura Kotte",
+            "population": 21670000
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Cameroon",
+            "countryName": "Cameroon",
+            "capital": "Yaoundé",
+            "population": 23439189
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Cote%20D'Ivoire",
+            "countryName": "Ivory Coast",
+            "capital": "Yamoussoukro",
+            "population": 23740424
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Taiwan",
+            "countryName": "Taiwan",
+            "capital": "Taipei",
+            "population": 23780452
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Madagascar",
+            "countryName": "Madagascar",
+            "capital": "Antananarivo",
+            "population": 24894551
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/North%20Korea",
+            "countryName": "North Korea",
+            "capital": "Pyongyang",
+            "population": 25368620
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Australia",
+            "countryName": "Australia",
+            "capital": "Canberra",
+            "population": 25515200
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Angola",
+            "countryName": "Angola",
+            "capital": "Luanda",
+            "population": 25789024
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Yemen",
+            "countryName": "Yemen",
+            "capital": "Sana'a",
+            "population": 27584213
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Ghana",
+            "countryName": "Ghana",
+            "capital": "Accra",
+            "population": 28308301
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Mozambique",
+            "countryName": "Mozambique",
+            "capital": "Maputo",
+            "population": 28829476
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Nepal",
+            "countryName": "Nepal",
+            "capital": "Kathmandu",
+            "population": 28982771
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Venezuela",
+            "countryName": "Venezuela",
+            "capital": "Caracas",
+            "population": 31568179
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Afghanistan",
+            "countryName": "Afghanistan",
+            "capital": "Kabul",
+            "population": 32225560
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Uzbekistan",
+            "countryName": "Uzbekistan",
+            "capital": "Tashkent",
+            "population": 32768725
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Malaysia",
+            "countryName": "Malaysia",
+            "capital": "Kuala Lumpur",
+            "population": 32772100
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Peru",
+            "countryName": "Peru",
+            "capital": "Lima",
+            "population": 33105273
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Saudi%20Arabia",
+            "countryName": "Saudi Arabia",
+            "capital": "Riyadh",
+            "population": 34218169
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Morocco",
+            "countryName": "Morocco",
+            "capital": "Rabat",
+            "population": 35581294
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Iraq",
+            "countryName": "Iraq",
+            "capital": "Baghdad",
+            "population": 37202572
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Canada",
+            "countryName": "Canada",
+            "capital": "Ottawa",
+            "population": 37602103
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Poland",
+            "countryName": "Poland",
+            "capital": "Warsaw",
+            "population": 38386000
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Uganda",
+            "countryName": "Uganda",
+            "capital": "Kampala",
+            "population": 41487965
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Sudan",
+            "countryName": "Sudan",
+            "capital": "Khartoum",
+            "population": 41592539
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Ukraine",
+            "countryName": "Ukraine",
+            "capital": "Kiev",
+            "population": 42030832
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Algeria",
+            "countryName": "Algeria",
+            "capital": "Algiers",
+            "population": 42200000
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Argentina",
+            "countryName": "Argentina",
+            "capital": "Buenos Aires",
+            "population": 44938712
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Spain",
+            "countryName": "Spain",
+            "capital": "Madrid",
+            "population": 46733038
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Colombia",
+            "countryName": "Colombia",
+            "capital": "Bogotá",
+            "population": 48258494
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Kenya",
+            "countryName": "Kenya",
+            "capital": "Nairobi",
+            "population": 49364325
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/South%20Korea",
+            "countryName": "South Korea",
+            "capital": "Seoul",
+            "population": 51709098
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Myanmar",
+            "countryName": "Myanmar",
+            "capital": "Naypyidaw",
+            "population": 53582855
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Tanzania%2C%20United%20Republic%20of",
+            "countryName": "Tanzania",
+            "capital": "Dodoma",
+            "population": 55572201
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/South%20Africa",
+            "countryName": "South Africa",
+            "capital": "Pretoria",
+            "population": 58775022
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Italy",
+            "countryName": "Italy",
+            "capital": "Rome",
+            "population": 60359546
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/France",
+            "countryName": "France",
+            "capital": "Paris",
+            "population": 67022000
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/United%20Kingdom",
+            "countryName": "United Kingdom",
+            "capital": "London",
+            "population": 67545757
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Thailand",
+            "countryName": "Thailand",
+            "capital": "Bangkok",
+            "population": 68863514
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Turkey",
+            "countryName": "Turkey",
+            "capital": "Ankara",
+            "population": 82003882
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Iran%2C%20Islamic%20Republic%20of",
+            "countryName": "Iran",
+            "capital": "Tehran",
+            "population": 82531700
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Germany",
+            "countryName": "Germany",
+            "capital": "Berlin",
+            "population": 83019200
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Congo%2C%20the%20Democratic%20Republic%20of%20the",
+            "countryName": "Democratic Republic of the Congo",
+            "capital": "Kinshasa",
+            "population": 91931000
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Viet%20Nam",
+            "countryName": "Vietnam",
+            "capital": "Hanoi",
+            "population": 94569072
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Egypt",
+            "countryName": "Egypt",
+            "capital": "Cairo",
+            "population": 94798827
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Philippines",
+            "countryName": "Philippines",
+            "capital": "Manila",
+            "population": 100981437
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Ethiopia",
+            "countryName": "Ethiopia",
+            "capital": "Addis Ababa",
+            "population": 102403196
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Japan",
+            "countryName": "Japan",
+            "capital": "Tokyo",
+            "population": 126317000
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Mexico",
+            "countryName": "Mexico",
+            "capital": "Mexico City",
+            "population": 126577691
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Russian%20Federation",
+            "countryName": "Russia",
+            "capital": "Moscow",
+            "population": 146793744
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Bangladesh",
+            "countryName": "Bangladesh",
+            "capital": "Dhaka",
+            "population": 162951560
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Nigeria",
+            "countryName": "Nigeria",
+            "capital": "Abuja",
+            "population": 200962417
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Brazil",
+            "countryName": "Brazil",
+            "capital": "Brasília",
+            "population": 210147125
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Pakistan",
+            "countryName": "Pakistan",
+            "capital": "Islamabad",
+            "population": 212742631
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/Indonesia",
+            "countryName": "Indonesia",
+            "capital": "Jakarta",
+            "population": 261115456
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/United%20States%20of%20America",
+            "countryName": "United States",
+            "capital": "Washington, D.C.",
+            "population": 327167434
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/India",
+            "countryName": "India",
+            "capital": "New Delhi",
+            "population": 1324171354
+        },
+        {
+            "wikiUrl": "https://wikipedia.org/wiki/China",
+            "countryName": "China",
+            "capital": "Beijing",
+            "population": 1403500365
+        }
+    ],
+    "ru": [
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%9C%D1%8D%D0%BD",
+            "countryName": "Остров Мэн",
+            "capital": "Дуглас",
+            "population": 0
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D1%8F%20%D0%B8%20%D0%AE%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%A1%D0%B0%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%D0%B5%D0%B2%D1%8B%20%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+            "countryName": "Южная Георгия и Южные Сандвичевы Острова",
+            "capital": "Кинг-Эдуард-Пойнт",
+            "population": 30
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20%D0%9F%D0%B8%D1%82%D0%BA%D1%8D%D1%80%D0%BD",
+            "countryName": "Острова Питкэрн",
+            "capital": "Адамстаун",
+            "population": 49
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+            "countryName": "Кокосовые острова",
+            "capital": "Уэст-Айленд",
+            "population": 596
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD",
+            "countryName": "Ватикан",
+            "capital": "Рим",
+            "population": 605
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BA%D0%B5%D0%BB%D0%B0%D1%83",
+            "countryName": "Токелау",
+            "capital": "Атафу",
+            "population": 1499
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%83%D1%8D",
+            "countryName": "Ниуэ",
+            "capital": "Алофи",
+            "population": 1618
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D0%9D%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BA",
+            "countryName": "Остров Норфолк",
+            "capital": "Кингстон",
+            "population": 2210
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B2%20%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC%20%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D0%B5",
+            "countryName": "Британская Территория в Индийском Океане",
+            "capital": "Диего-Гарсия",
+            "population": 2800
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BB%D0%BA%D0%BB%D0%B5%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+            "countryName": "Фолклендские острова",
+            "capital": "Стэнли",
+            "population": 2840
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D1%81%D0%B5%D1%80%D1%80%D0%B0%D1%82",
+            "countryName": "Монтсеррат",
+            "capital": "Плимут",
+            "population": 4922
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9%20%D0%95%D0%BB%D0%B5%D0%BD%D1%8B%2C%20%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%A2%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%B4%D0%B0-%D0%9A%D1%83%D0%BD%D1%8C%D1%8F",
+            "countryName": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+            "capital": "Джеймстаун",
+            "population": 5633
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%B2%D0%B0%D0%BB%D1%83",
+            "countryName": "Тувалу",
+            "capital": "Фунафути",
+            "population": 11052
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BB%D0%BB%D0%B8%D1%81%20%D0%B8%20%D0%A4%D1%83%D1%82%D1%83%D0%BD%D0%B0",
+            "countryName": "Уоллис и Футуна",
+            "capital": "Мата-Уту",
+            "population": 12197
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B8%D0%BB%D1%8C%D1%8F",
+            "countryName": "Ангилья",
+            "capital": "Валли",
+            "population": 15800
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20%D0%9A%D1%83%D0%BA%D0%B0",
+            "countryName": "Острова Кука",
+            "capital": "Аваруа",
+            "population": 17459
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%83",
+            "countryName": "Палау",
+            "capital": "Нгерулмуд",
+            "population": 21431
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20(%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F)",
+            "countryName": "Виргинские Острова (Великобритания)",
+            "capital": "Род-Таун",
+            "population": 25000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D1%8D%D0%B9%D1%80%2C%20%D0%A1%D0%B8%D0%BD%D1%82-%D0%AD%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%83%D1%81%20%D0%B8%20%D0%A1%D0%B0%D0%B1%D0%B0",
+            "countryName": "Бонэйр, Синт-Эстатиус и Саба",
+            "capital": "Кралендейк",
+            "population": 25019
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BA%D1%81%20%D0%B8%20%D0%9A%D0%B0%D0%B9%D0%BA%D0%BE%D1%81",
+            "countryName": "Теркс и Кайкос",
+            "capital": "Коберн-Таун",
+            "population": 31458
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE",
+            "countryName": "Сан-Марино",
+            "capital": "Сан-Марино",
+            "population": 33422
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%82-%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD",
+            "countryName": "Синт-Мартен",
+            "capital": "Филипсбург",
+            "population": 37224
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D0%BA%D0%BE",
+            "countryName": "Монако",
+            "capital": "Монако",
+            "population": 37863
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD",
+            "countryName": "Лихтенштейн",
+            "capital": "Вадуц",
+            "population": 38013
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9A%D0%B8%D1%82%D1%81%20%D0%B8%20%D0%9D%D0%B5%D0%B2%D0%B8%D1%81",
+            "countryName": "Сент-Китс и Невис",
+            "capital": "Бастер",
+            "population": 49898
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A1%D0%B0%D0%BC%D0%BE%D0%B0",
+            "countryName": "Американское Самоа",
+            "capital": "Паго-Паго",
+            "population": 51504
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%9C%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+            "countryName": "Северные Марианские Острова",
+            "capital": "Сайпан",
+            "population": 53883
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB%D0%BB%D0%BE%D0%B2%D1%8B%20%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+            "countryName": "Маршалловы Острова",
+            "capital": "Маджуро",
+            "population": 55000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20%D0%9A%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD",
+            "countryName": "Острова Кайман",
+            "capital": "Джорджтаун",
+            "population": 62348
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BD%D1%81%D0%B8",
+            "countryName": "Гернси",
+            "capital": "Сент-Питер-Порт",
+            "population": 63026
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BC%D1%83%D0%B4%D1%8B",
+            "countryName": "Бермудские Острова",
+            "capital": "Гамильтон",
+            "population": 64237
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0",
+            "countryName": "Доминика",
+            "capital": "Розо",
+            "population": 73607
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0",
+            "countryName": "Андорра",
+            "capital": "Андорра-ла-Велья",
+            "population": 85470
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+            "countryName": "Сейшельские Острова",
+            "capital": "Виктория",
+            "population": 90024
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B3%D1%83%D0%B0%20%D0%B8%20%D0%91%D0%B0%D1%80%D0%B1%D1%83%D0%B4%D0%B0",
+            "countryName": "Антигуа и Барбуда",
+            "capital": "Сент-Джонс",
+            "population": 93581
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%B3%D0%B0",
+            "countryName": "Тонга",
+            "capital": "Нукуалофа",
+            "population": 103252
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%83%D0%B1%D0%B0",
+            "countryName": "Аруба",
+            "capital": "Ораньестад",
+            "population": 103889
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20(%D0%A1%D0%A8%D0%90)",
+            "countryName": "Виргинские Острова (США)",
+            "capital": "Шарлотта-Амалия",
+            "population": 106405
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B0",
+            "countryName": "Гренада",
+            "capital": "Сент-Джорджес",
+            "population": 108789
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8",
+            "countryName": "Кирибати",
+            "capital": "Южная Тарава",
+            "population": 115300
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82%20%D0%B8%20%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D1%8B",
+            "countryName": "Сент-Винсент и Гренадины",
+            "capital": "Кингстаун",
+            "population": 117534
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8E%D1%80%D0%B0%D1%81%D0%B0%D0%BE",
+            "countryName": "Кюрасао",
+            "capital": "Виллемстад",
+            "population": 158986
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B0%D0%BC",
+            "countryName": "Гуам",
+            "capital": "Хагатна",
+            "population": 159358
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD-%D0%A2%D0%BE%D0%BC%D0%B5%20%D0%B8%20%D0%9F%D1%80%D0%B8%D0%BD%D1%81%D0%B8%D0%BF%D0%B8",
+            "countryName": "Сан-Томе и Принсипи",
+            "capital": "Сан-Томе",
+            "population": 163000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%9B%D1%8E%D1%81%D0%B8%D1%8F",
+            "countryName": "Сент-Люсия",
+            "capital": "Кастри",
+            "population": 165600
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D0%B0",
+            "countryName": "Самоа",
+            "capital": "Апиа",
+            "population": 187820
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%90%D0%94%D0%A0",
+            "countryName": "Сахарская Арабская Демократическая Республика",
+            "capital": "Эль-Аюн",
+            "population": 267405
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%9A%D0%B0%D0%BB%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F",
+            "countryName": "Новая Каледония",
+            "capital": "Нумеа",
+            "population": 275355
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD%D1%83%D0%B0%D1%82%D1%83",
+            "countryName": "Вануату",
+            "capital": "Порт-Вила",
+            "population": 277554
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D0%B4%D0%BE%D1%81",
+            "countryName": "Барбадос",
+            "capital": "Бриджтаун",
+            "population": 277821
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F",
+            "countryName": "Французская Полинезия",
+            "capital": "Папеэте",
+            "population": 281674
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%8B",
+            "countryName": "Багамские Острова",
+            "capital": "Нассау",
+            "population": 321834
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B8%D0%B7",
+            "countryName": "Белиз",
+            "capital": "Бельмопан",
+            "population": 347369
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F",
+            "countryName": "Исландия",
+            "capital": "Рейкьявик",
+            "population": 357050
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D0%B4%D0%B8%D0%B2%D1%8B",
+            "countryName": "Мальдивы",
+            "capital": "Мале",
+            "population": 402071
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%83%D0%BD%D0%B5%D0%B9",
+            "countryName": "Бруней",
+            "capital": "Бандар-Сери-Бегаван",
+            "population": 431142
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D0%B0",
+            "countryName": "Мальта",
+            "capital": "Валлетта",
+            "population": 475701
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+            "countryName": "Соломоновы Острова",
+            "capital": "Хониара",
+            "population": 515870
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5",
+            "countryName": "Кабо-Верде",
+            "capital": "Прая",
+            "population": 560899
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%80%D0%B8%D0%BD%D0%B0%D0%BC",
+            "countryName": "Суринам",
+            "capital": "Парамарибо",
+            "population": 585824
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3",
+            "countryName": "Люксембург",
+            "capital": "Люксембург",
+            "population": 602005
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D1%8F",
+            "countryName": "Черногория",
+            "capital": "Подгорица",
+            "population": 622359
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F",
+            "countryName": "Экваториальная Гвинея",
+            "capital": "Малабо",
+            "population": 740743
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%82%D0%B0%D0%BD",
+            "countryName": "Бутан",
+            "capital": "Тхимпху",
+            "population": 750125
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9%D0%B0%D0%BD%D0%B0",
+            "countryName": "Гайана",
+            "capital": "Джорджтаун",
+            "population": 773303
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BE%D1%80%D1%8B",
+            "countryName": "Коморы",
+            "capital": "Морони",
+            "population": 806153
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B8%D0%B1%D1%83%D1%82%D0%B8",
+            "countryName": "Джибути",
+            "capital": "Джибути",
+            "population": 818169
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B4%D0%B6%D0%B8",
+            "countryName": "Фиджи",
+            "capital": "Сува",
+            "population": 884887
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B0%D0%B7%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4",
+            "countryName": "Эсватини",
+            "capital": "Мбабане",
+            "population": 1185000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D0%B4%D0%B0%D0%B4%20%D0%B8%20%D0%A2%D0%BE%D0%B1%D0%B0%D0%B3%D0%BE",
+            "countryName": "Тринидад и Тобаго",
+            "capital": "Порт-оф-Спейн",
+            "population": 1218208
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%A2%D0%B8%D0%BC%D0%BE%D1%80",
+            "countryName": "Восточный Тимор",
+            "capital": "Дили",
+            "population": 1291358
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B2%D1%80%D0%B8%D0%BA%D0%B8%D0%B9",
+            "countryName": "Маврикий",
+            "capital": "Порт-Луи",
+            "population": 1295789
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F",
+            "countryName": "Эстония",
+            "capital": "Таллин",
+            "population": 1324820
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%85%D1%80%D0%B5%D0%B9%D0%BD",
+            "countryName": "Бахрейн",
+            "capital": "Манама",
+            "population": 1343000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F-%D0%91%D0%B8%D1%81%D0%B0%D1%83",
+            "countryName": "Гвинея-Бисау",
+            "capital": "Бисау",
+            "population": 1647000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B1%D0%BE%D0%BD",
+            "countryName": "Габон",
+            "capital": "Либревиль",
+            "population": 1738541
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BC%D0%B1%D0%B8%D1%8F",
+            "countryName": "Гамбия",
+            "capital": "Банжул",
+            "population": 1878999
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F",
+            "countryName": "Латвия",
+            "capital": "Рига",
+            "population": 1934379
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BE%D1%82%D0%BE",
+            "countryName": "Лесото",
+            "capital": "Масеру",
+            "population": 2031000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F",
+            "countryName": "Словения",
+            "capital": "Любляна",
+            "population": 2066880
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F",
+            "countryName": "Северная Македония",
+            "capital": "Скопье",
+            "population": 2073702
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%81%D0%B2%D0%B0%D0%BD%D0%B0",
+            "countryName": "Ботсвана",
+            "capital": "Габороне",
+            "population": 2112049
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BC%D0%B8%D0%B1%D0%B8%D1%8F",
+            "countryName": "Намибия",
+            "capital": "Виндхук",
+            "population": 2533794
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%80",
+            "countryName": "Катар",
+            "capital": "Доха",
+            "population": 2638657
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%B2%D0%B0",
+            "countryName": "Литва",
+            "capital": "Вильнюс",
+            "population": 2790472
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F",
+            "countryName": "Албания",
+            "capital": "Тирана",
+            "population": 2876591
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BC%D0%B0%D0%B9%D0%BA%D0%B0",
+            "countryName": "Ямайка",
+            "capital": "Кингстон",
+            "population": 2930050
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F",
+            "countryName": "Армения",
+            "capital": "Ереван",
+            "population": 2986100
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D1%8F",
+            "countryName": "Монголия",
+            "capital": "Улан-Батор",
+            "population": 3119935
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%8D%D1%80%D1%82%D0%BE-%D0%A0%D0%B8%D0%BA%D0%BE",
+            "countryName": "Пуэрто-Рико",
+            "capital": "Сан-Хуан",
+            "population": 3195153
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B2%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F",
+            "countryName": "Мавритания",
+            "capital": "Нуакшот",
+            "population": 3359185
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D1%83%D0%B3%D0%B2%D0%B0%D0%B9",
+            "countryName": "Уругвай",
+            "capital": "Монтевидео",
+            "population": 3444006
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0",
+            "countryName": "Босния и Герцеговина",
+            "capital": "Сараево",
+            "population": 3511372
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B2%D0%B8%D1%8F",
+            "countryName": "Молдавия",
+            "capital": "Кишинёв",
+            "population": 3550900
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%BC%D0%B0",
+            "countryName": "Панама",
+            "capital": "Панама",
+            "population": 3689293
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F",
+            "countryName": "Грузия",
+            "capital": "Тбилиси",
+            "population": 3729600
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F",
+            "countryName": "Хорватия",
+            "capital": "Загреб",
+            "population": 4076246
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%9A%D0%BE%D0%BD%D0%B3%D0%BE",
+            "countryName": "Республика Конго",
+            "capital": "Браззавиль",
+            "population": 4233063
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B1%D0%B5%D1%80%D0%B8%D1%8F",
+            "countryName": "Либерия",
+            "capital": "Монровия",
+            "population": 4294000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BC%D0%B0%D0%BD",
+            "countryName": "Оман",
+            "capital": "Маскат",
+            "population": 4298320
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B2%D0%B0%D0%BD",
+            "countryName": "Ливан",
+            "capital": "Бейрут",
+            "population": 4468007
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE%20%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%B0",
+            "countryName": "Государство Палестина",
+            "capital": "Рамалла",
+            "population": 4550368
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B2%D0%B5%D0%B9%D1%82",
+            "countryName": "Кувейт",
+            "capital": "Эль-Кувейт",
+            "population": 4588148
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A6%D0%90%D0%A0",
+            "countryName": "Центральноафриканская Республика",
+            "capital": "Банги",
+            "population": 4594621
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0",
+            "countryName": "Коста-Рика",
+            "capital": "Сан-Хосе",
+            "population": 4825144
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F",
+            "countryName": "Новая Зеландия",
+            "capital": "Веллингтон",
+            "population": 4848477
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F",
+            "countryName": "Ирландия",
+            "capital": "Дублин",
+            "population": 4921500
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F",
+            "countryName": "Норвегия",
+            "capital": "Осло",
+            "population": 5358578
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8C%D0%B5%D1%80%D1%80%D0%B0-%D0%9B%D0%B5%D0%BE%D0%BD%D0%B5",
+            "countryName": "Сьерра-Леоне",
+            "capital": "Фритаун",
+            "population": 5363669
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D1%8F",
+            "countryName": "Словакия",
+            "capital": "Братислава",
+            "population": 5455030
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F",
+            "countryName": "Финляндия",
+            "capital": "Хельсинки",
+            "population": 5521158
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80",
+            "countryName": "Сингапур",
+            "capital": "Сингапур",
+            "population": 5781110
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D0%B8%D1%8F",
+            "countryName": "Дания",
+            "capital": "Копенгаген",
+            "population": 5811413
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F",
+            "countryName": "Туркмения",
+            "capital": "Ашхабад",
+            "population": 5850908
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%B0%D1%80%D0%B0%D0%B3%D1%83%D0%B0",
+            "countryName": "Никарагуа",
+            "capital": "Манагуа",
+            "population": 5966798
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B8%D1%82%D1%80%D0%B5%D1%8F",
+            "countryName": "Эритрея",
+            "capital": "Асмэра",
+            "population": 6086495
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F",
+            "countryName": "Киргизия",
+            "capital": "Бишкек",
+            "population": 6389500
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80",
+            "countryName": "Сальвадор",
+            "capital": "Сан-Сальвадор",
+            "population": 6460000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BE%D1%81",
+            "countryName": "Лаос",
+            "capital": "Вьентьян",
+            "population": 6500000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D1%8F",
+            "countryName": "Сербия",
+            "capital": "Белград",
+            "population": 6963764
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F",
+            "countryName": "Болгария",
+            "capital": "София",
+            "population": 6999908
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9",
+            "countryName": "Парагвай",
+            "capital": "Асунсьон",
+            "population": 7003000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B3%D0%BE",
+            "countryName": "Того",
+            "capital": "Ломе",
+            "population": 7154237
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B2%D0%B8%D1%8F",
+            "countryName": "Ливия",
+            "capital": "Триполи",
+            "population": 7200000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0%20%E2%80%94%20%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F",
+            "countryName": "Папуа — Новая Гвинея",
+            "capital": "Порт-Морсби",
+            "population": 7334638
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3",
+            "countryName": "Гонконг",
+            "capital": "[2]",
+            "population": 7404207
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BD%D0%B4%D1%83%D1%80%D0%B0%D1%81",
+            "countryName": "Гондурас",
+            "capital": "Тегусигальпа",
+            "population": 8448465
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F",
+            "countryName": "Швейцария",
+            "capital": "де-юре",
+            "population": 8558758
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F",
+            "countryName": "Австрия",
+            "capital": "Вена",
+            "population": 8923507
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C",
+            "countryName": "Израиль",
+            "capital": "Иерусалим",
+            "population": 8972000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD",
+            "countryName": "Таджикистан",
+            "capital": "Душанбе",
+            "population": 9126600
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C",
+            "countryName": "Белоруссия",
+            "capital": "Минск",
+            "population": 9475174
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9E%D0%90%D0%AD",
+            "countryName": "Объединённые Арабские Эмираты",
+            "capital": "Абу-Даби",
+            "population": 9771000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F",
+            "countryName": "Венгрия",
+            "capital": "Будапешт",
+            "population": 9772756
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F",
+            "countryName": "Иордания",
+            "capital": "Амман",
+            "population": 9856034
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F",
+            "countryName": "Швеция",
+            "capital": "Стокгольм",
+            "population": 10004275
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD",
+            "countryName": "Азербайджан",
+            "capital": "Баку",
+            "population": 10019575
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F",
+            "countryName": "Португалия",
+            "capital": "Лиссабон",
+            "population": 10276617
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F",
+            "countryName": "Чехия",
+            "capital": "Прага",
+            "population": 10677540
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0",
+            "countryName": "Доминиканская Республика",
+            "capital": "Санто-Доминго",
+            "population": 10734247
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F",
+            "countryName": "Греция",
+            "capital": "Афины",
+            "population": 10741165
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD",
+            "countryName": "Бенин",
+            "capital": "Порто-Ново",
+            "population": 10741458
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81",
+            "countryName": "Тунис",
+            "capital": "Тунис",
+            "population": 10982476
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B0",
+            "countryName": "Куба",
+            "capital": "Гавана",
+            "population": 11061886
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D1%83%D0%BD%D0%B4%D0%B8",
+            "countryName": "Бурунди",
+            "capital": "Гитега",
+            "population": 11099298
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B4",
+            "countryName": "Чад",
+            "capital": "Нджамена",
+            "population": 11193452
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D1%8F",
+            "countryName": "Боливия",
+            "capital": "Сукре",
+            "population": 11217865
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F",
+            "countryName": "Бельгия",
+            "capital": "Брюссель",
+            "population": 11480534
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8",
+            "countryName": "Сомали",
+            "capital": "Могадишо",
+            "population": 12316895
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%A1%D1%83%D0%B4%D0%B0%D0%BD",
+            "countryName": "Южный Судан",
+            "capital": "Джуба",
+            "population": 12340000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B0%D0%BD%D0%B4%D0%B0",
+            "countryName": "Руанда",
+            "capital": "Кигали",
+            "population": 12374397
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F",
+            "countryName": "Гвинея",
+            "capital": "Конакри",
+            "population": 12395924
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%B5%D0%B3%D0%B0%D0%BB",
+            "countryName": "Сенегал",
+            "capital": "Дакар",
+            "population": 13300410
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%B2%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D0%BB%D0%B0",
+            "countryName": "Гватемала",
+            "capital": "Гватемала",
+            "population": 14373472
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B2%D0%B0%D0%B4%D0%BE%D1%80",
+            "countryName": "Эквадор",
+            "capital": "Кито",
+            "population": 16080778
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%B1%D0%B8%D1%8F",
+            "countryName": "Замбия",
+            "capital": "Лусака",
+            "population": 16100587
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%B1%D0%B0%D0%B1%D0%B2%D0%B5",
+            "countryName": "Зимбабве",
+            "capital": "Хараре",
+            "population": 16150362
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%BE%D0%B4%D0%B6%D0%B0",
+            "countryName": "Камбоджа",
+            "capital": "Пномпень",
+            "population": 16449519
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D0%B2%D0%B8",
+            "countryName": "Малави",
+            "capital": "Лилонгве",
+            "population": 16777547
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B",
+            "countryName": "Нидерланды",
+            "capital": "Амстердам",
+            "population": 17333790
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE",
+            "countryName": "Буркина-Фасо",
+            "capital": "Уагадугу",
+            "population": 17692391
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%B8%D1%8F",
+            "countryName": "Сирия",
+            "capital": "Дамаск",
+            "population": 17780044
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BB%D0%B8",
+            "countryName": "Чили",
+            "capital": "Сантьяго",
+            "population": 17789267
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD",
+            "countryName": "Казахстан",
+            "capital": "Нур-Султан",
+            "population": 18547500
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8",
+            "countryName": "Мали",
+            "capital": "Бамако",
+            "population": 19329841
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F",
+            "countryName": "Румыния",
+            "capital": "Бухарест",
+            "population": 19511000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D1%80%D1%83%D0%BD",
+            "countryName": "Камерун",
+            "capital": "Яунде",
+            "population": 20549221
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D0%B8-%D0%9B%D0%B0%D0%BD%D0%BA%D0%B0",
+            "countryName": "Шри-Ланка",
+            "capital": "Шри-Джаява́рденепура-Ко́тте",
+            "population": 21675648
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80",
+            "countryName": "Нигер",
+            "capital": "Ниамей",
+            "population": 23470530
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0",
+            "countryName": "Китайская Республика",
+            "capital": "Тайбэй",
+            "population": 23593794
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82-%D0%B4%E2%80%99%D0%98%D0%B2%D1%83%D0%B0%D1%80",
+            "countryName": "Кот-д’Ивуар",
+            "capital": "Ямусукро",
+            "population": 23740424
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80",
+            "countryName": "Мадагаскар",
+            "capital": "Антананариву",
+            "population": 24823539
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F",
+            "countryName": "Австралия",
+            "capital": "Канберра",
+            "population": 25180200
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B0",
+            "countryName": "Гана",
+            "capital": "Аккра",
+            "population": 25199609
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D0%BC%D0%B5%D0%BD",
+            "countryName": "Йемен",
+            "capital": "Сана",
+            "population": 25408288
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%9D%D0%94%D0%A0",
+            "countryName": "Корейская Народно-Демократическая Республика",
+            "capital": "Пхеньян",
+            "population": 25564184
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B7%D0%B0%D0%BC%D0%B1%D0%B8%D0%BA",
+            "countryName": "Мозамбик",
+            "capital": "Мапуту",
+            "population": 28829476
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BE%D0%BB%D0%B0",
+            "countryName": "Ангола",
+            "capital": "Луанда",
+            "population": 29310273
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB",
+            "countryName": "Непал",
+            "capital": "Катманду",
+            "population": 30430267
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%81%D1%83%D1%8D%D0%BB%D0%B0",
+            "countryName": "Венесуэла",
+            "capital": "Каракас",
+            "population": 30761000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B8%D1%8F",
+            "countryName": "Малайзия",
+            "capital": "Куала-Лумпур",
+            "population": 30987000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D1%84%D0%B3%D0%B0%D0%BD%D0%B8%D1%81%D1%82%D0%B0%D0%BD",
+            "countryName": "Афганистан",
+            "capital": "Кабул",
+            "population": 31575018
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%83",
+            "countryName": "Перу",
+            "capital": "Лима",
+            "population": 32162184
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%83%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D1%8F",
+            "countryName": "Саудовская Аравия",
+            "capital": "Эр-Рияд",
+            "population": 33000000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD",
+            "countryName": "Узбекистан",
+            "capital": "Ташкент",
+            "population": 33523600
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE",
+            "countryName": "Марокко",
+            "capital": "Рабат",
+            "population": 33848242
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0",
+            "countryName": "Уганда",
+            "capital": "Кампала",
+            "population": 34758809
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B0%D0%BA",
+            "countryName": "Ирак",
+            "capital": "Багдад",
+            "population": 37056169
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0",
+            "countryName": "Канада",
+            "capital": "Оттава",
+            "population": 37602103
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B6%D0%B8%D1%80",
+            "countryName": "Алжир",
+            "capital": "Алжир",
+            "population": 38087812
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0",
+            "countryName": "Польша",
+            "capital": "Варшава",
+            "population": 38313035
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B4%D0%B0%D0%BD",
+            "countryName": "Судан",
+            "capital": "Хартум",
+            "population": 39578828
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0",
+            "countryName": "Украина",
+            "capital": "Киев",
+            "population": 41840426
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0",
+            "countryName": "Аргентина",
+            "capital": "Буэнос-Айрес",
+            "population": 43417000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%B8%D1%8F",
+            "countryName": "Кения",
+            "capital": "Найроби",
+            "population": 44037656
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F",
+            "countryName": "Испания",
+            "capital": "Мадрид",
+            "population": 46714997
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F",
+            "countryName": "Танзания",
+            "capital": "Додома",
+            "population": 48261942
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F",
+            "countryName": "Колумбия",
+            "capital": "Богота",
+            "population": 48400388
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%9A%D0%BE%D1%80%D0%B5%D1%8F",
+            "countryName": "Республика Корея",
+            "capital": "Сеул",
+            "population": 51732586
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8C%D1%8F%D0%BD%D0%BC%D0%B0",
+            "countryName": "Мьянма",
+            "capital": "Нейпьидо",
+            "population": 52885223
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AE%D0%90%D0%A0",
+            "countryName": "Южно-Африканская Республика",
+            "capital": "Претория",
+            "population": 54956900
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F",
+            "countryName": "Италия",
+            "capital": "Рим",
+            "population": 60588366
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F",
+            "countryName": "Франция",
+            "capital": "Париж",
+            "population": 65060692
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F",
+            "countryName": "Великобритания",
+            "capital": "Лондон",
+            "population": 66273576
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4",
+            "countryName": "Таиланд",
+            "capital": "Бангкок",
+            "population": 68615858
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%9A%D0%BE%D0%BD%D0%B3%D0%BE",
+            "countryName": "Демократическая Республика Конго",
+            "capital": "Киншаса",
+            "population": 77433744
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B0%D0%BD",
+            "countryName": "Иран",
+            "capital": "Тегеран",
+            "population": 81000000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F",
+            "countryName": "Турция",
+            "capital": "Анкара",
+            "population": 82003882
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F",
+            "countryName": "Германия",
+            "capital": "Берлин",
+            "population": 83019200
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%92%D1%8C%D0%B5%D1%82%D0%BD%D0%B0%D0%BC",
+            "countryName": "Вьетнам",
+            "capital": "Ханой",
+            "population": 92477857
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+            "countryName": "Египет",
+            "capital": "Каир",
+            "population": 100006930
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AD%D1%84%D0%B8%D0%BE%D0%BF%D0%B8%D1%8F",
+            "countryName": "Эфиопия",
+            "capital": "Аддис-Абеба",
+            "population": 102403196
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B",
+            "countryName": "Филиппины",
+            "capital": "Манила",
+            "population": 102921200
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F",
+            "countryName": "Япония",
+            "capital": "Токио",
+            "population": 126225000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0",
+            "countryName": "Мексика",
+            "capital": "Мехико",
+            "population": 133140936
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
+            "countryName": "Россия",
+            "capital": "Москва",
+            "population": 146780720
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B5%D1%88",
+            "countryName": "Бангладеш",
+            "capital": "Дакка",
+            "population": 168957745
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D1%8F",
+            "countryName": "Нигерия",
+            "capital": "Абуджа",
+            "population": 203008216
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F",
+            "countryName": "Бразилия",
+            "capital": "Бразилиа",
+            "population": 207353391
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD",
+            "countryName": "Пакистан",
+            "capital": "Исламабад",
+            "population": 207774520
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F",
+            "countryName": "Индонезия",
+            "capital": "Джакарта",
+            "population": 266357297
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%A1%D0%A8%D0%90",
+            "countryName": "Соединённые Штаты Америки",
+            "capital": "Вашингтон",
+            "population": 328915700
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F",
+            "countryName": "Индия",
+            "capital": "Нью-Дели",
+            "population": 1351670000
+        },
+        {
+            "wikiUrl": "https://ru.wikipedia.org/wiki/%D0%9A%D0%9D%D0%A0",
+            "countryName": "Китай",
+            "capital": "Пекин",
+            "population": 1404328611
+        }
+    ]
+}
